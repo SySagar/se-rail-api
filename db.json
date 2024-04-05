@@ -1,0 +1,8 @@
+{
+  "trains": [
+    { "name":"Shalimar Superfast Express", "from": "Kolkata", "to": "Mumbai", "date": "2024-04-05", "time":"18:51" },
+    { "name":"Dhauli Express", "from": "Sambalpur", "to": "Rourkela", "date": "2024-04-06", "time":"02:00" },
+    {  "name":"Jan Shtabdi Express", "from": "Chennai", "to": "Delhi", "date": "2024-04-07", "time":"21:55"},
+    {  "name":"Rajhdhani Express", "from": "Chennai", "to": "Delhi", "date": "2024-04-07", "time":"03:50" }
+  ]
+}
