@@ -1,8 +1,8 @@
 {
   "trains": [
-    { "name":"Shalimar Superfast Express", "from": "Kolkata", "to": "Mumbai", "date": "2024-04-05", "time":"18:51", "seats":"40" },
-    { "name":"Dhauli Express", "from": "Sambalpur", "to": "Rourkela", "date": "2024-04-06", "time":"02:00", "seats":"128" },
-    {  "name":"Jan Shtabdi Express", "from": "Chennai", "to": "Delhi", "date": "2024-04-07", "time":"21:55", "seats":"81"},
-    {  "name":"Rajhdhani Express", "from": "Chennai", "to": "Delhi", "date": "2024-04-07", "time":"03:50", "seats":"122" }
+    { "train_no":"8934158","name":"Shalimar Superfast Express", "from": "Kolkata", "to": "Mumbai", "date": "2024-04-05", "startTime":"18:51","lastTime":"09:00", "seats":"40", "travel_time":"8.5" },
+    { "train_no":"1934816", "name":"Dhauli Express", "from": "Sambalpur", "to": "Rourkela", "date": "2024-04-06", "startTime":"02:00","lastTime":"22:01", "seats":"128", "travel_time":"12.8" },
+    { "train_no":"9168737", "name":"Jan Shtabdi Express", "from": "Chennai", "to": "Delhi", "date": "2024-04-07", "startTime":"21:55","lastTime":"15:30", "seats":"81", "travel_time":"32"},
+    { "train_no":"9476513",  "name":"Rajhdhani Express", "from": "Chennai", "to": "Delhi", "date": "2024-04-07", "startTime":"03:50","lastTime":"03:05", "seats":"122", "travel_time":"28.2" }
   ]
 }
